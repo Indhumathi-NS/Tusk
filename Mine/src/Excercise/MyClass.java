@@ -28,7 +28,7 @@ Thread.sleep(3000);
 
 Actions act=new Actions(driver);
 //act.doubleClick(driver.findElement(By.id("ji"))).perform();
-act.moveByOffset(xOffset, yOffset)
+//act.moveByOffset(xOffset, yOffset)
 
 //String ps=driver.getPageSource();
 //System.out.println(ps);
